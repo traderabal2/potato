@@ -37,7 +37,7 @@ fun_bar() {
 }
 res1() {
 
-    wget https://raw.githubusercontent.com/traderabal2/potato/main/menu/menu.zip
+    wget https://raw.githubusercontent.com/traderabal2/potato/main/Cdy/menu.zip
     wget -q -O /usr/bin/enc "https://raw.githubusercontent.com/traderabal2/potato/main/Enc/encrypt" ; chmod +x /usr/bin/enc
     unzip menu.zip
     chmod +x menu/*
