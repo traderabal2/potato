@@ -1,6 +1,6 @@
 #!/bin/bash
 clear
-REPO="https://raw.githubusercontent.com/traderabal2/scvip/main/"
+REPO="https://raw.githubusercontent.com/traderabal2/potato/main/"
 systemctl stop vmip vlip trip
 cd /usr/bin
 rm -rf limit-ip
