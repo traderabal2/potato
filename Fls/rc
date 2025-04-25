@@ -1,5 +1,0 @@
-REPO="https://raw.githubusercontent.com/traderabal2/potato/main/"
-
-
-
-wget -O /root/.config/rclone/rclone.conf "${REPO}Cfg/rclone.conf"
